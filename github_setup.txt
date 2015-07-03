@@ -1,0 +1,6 @@
+An error occurred trying to download 'http://github-windows.s3.amazonaws.com/GitHub.application'.
+
+The following components were successfully installed:
+- Microsoft .NET Framework 4.5 (x86 and x64)
+
+See the setup log file located at 'C:\Users\ADMINI~1\AppData\Local\Temp\VSD9A8A.tmp\install.log' for more information.
